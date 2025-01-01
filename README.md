@@ -16,7 +16,7 @@ Repo for "<a href="https://arxiv.org/abs/2409.01577" target="_blank">EvoChart: A
 
 <p align="center">
   2024.12.9: The paper has been accepted by AAAI-25.<br>
-  2024.12.31: The EvoChart corpus has been open-sourced.
+  2024.12.31: The EvoChart corpus （qa-pair, images, matadata） has been open-sourced.
 </p>
 
 This repository contains the code and data for the paper "EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding".
